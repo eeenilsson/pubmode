@@ -259,8 +259,6 @@ Lines longer than that value are broken"
 (require 'pub-helper)
 (require 'pub-export)
 
-
-
 (defun pub-med (term) "Retrieve PubMed entries"
   (interactive "MSearch PubMed: ")
 
